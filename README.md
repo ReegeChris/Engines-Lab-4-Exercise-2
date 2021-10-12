@@ -17,3 +17,5 @@ the argument that is passed.
 
 Then, in my playermovement script, I call this function after the player collides with an object and pass the value 1 to the 'SubtractHelth' Function. From there, 
 the player loses 1 health each time they collide with an object and only one instance of text is stored.
+
+References: https://drive.google.com/file/d/1mKuH4BzcJgqX2wQFOKWYbX6r7i3cS7mQ/view
